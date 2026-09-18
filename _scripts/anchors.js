@@ -30,7 +30,11 @@
     const target = document.getElementById(id);
 
     if (!target) return;
-    const offset = document.querySelector("header").clientHeight || 0;
+    const header = document.querySelector("header");
+    const position = window.getComputedStyle(header).position;
+    const offset = ["fixed", "sticky"].includes(position)
+      ? header.clientHeight
+      : 0;
     window.scrollTo({
       top: target.getBoundingClientRect().top + window.scrollY - offset,
       behavior: "smooth",

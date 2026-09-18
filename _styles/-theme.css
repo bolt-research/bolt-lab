@@ -1,31 +1,31 @@
 [data-dark=false] {
-  --primary: #0795d9;
-  --secondary: #7dd3fc;
-  --text: #000000;
-  --background: #ffffff;
-  --background-alt: #fafafa;
-  --light-gray: #e0e0e0;
-  --gray: #808080;
-  --dark-gray: #404040;
-  --overlay: #00000020;
+  --primary: #35634f;
+  --secondary: #e3ebdf;
+  --text: #26352e;
+  --background: #faf9f6;
+  --background-alt: #f0f2ec;
+  --light-gray: #dce1d8;
+  --gray: #68746c;
+  --dark-gray: #44534a;
+  --overlay: #1c33260d;
 }
 
 [data-dark=true] {
-  --primary: #0795d9;
-  --secondary: #075985;
-  --text: #ffffff;
-  --background: #181818;
-  --background-alt: #1c1c1c;
-  --light-gray: #404040;
-  --gray: #808080;
-  --dark-gray: #b0b0b0;
-  --overlay: #ffffff10;
+  --primary: #b6d4b9;
+  --secondary: #2a4034;
+  --text: #edf1e9;
+  --background: #17231e;
+  --background-alt: #1e2c25;
+  --light-gray: #35483c;
+  --gray: #afbeb1;
+  --dark-gray: #c6d1c7;
+  --overlay: #00000016;
 }
 
 :root {
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --title: "DM Sans", sans-serif;
+  --heading: "DM Sans", sans-serif;
+  --body: "DM Sans", sans-serif;
   --code: "Roboto Mono", monospace;
   --large: 1.2rem;
   --xl: 1.4rem;
@@ -34,10 +34,10 @@
   --regular: 400;
   --semi-bold: 500;
   --bold: 600;
-  --spacing: 2;
-  --compact: 1.5;
-  --rounded: 3px;
-  --shadow: 0 0 10px 0 var(--overlay);
+  --spacing: 1.75;
+  --compact: 1.55;
+  --rounded: 10px;
+  --shadow: 0 8px 28px -12px var(--overlay);
   --transition: 0.2s ease;
 }
 
