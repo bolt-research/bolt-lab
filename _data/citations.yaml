@@ -149,10 +149,15 @@
   file: sources-2025-2026.yaml
 - id: https://openreview.net/forum?id=chDrutUTs0K
   title: 'POPGym: Benchmarking Partially Observable Reinforcement Learning'
-  authors: []
+  authors:
+  - Steven Morad
+  - Ryan Kortvelesy
+  - Matteo Bettini
+  - Stephan Liwicki
+  - Amanda Prorok
   publisher: The Eleventh International Conference on Learning Representations
   date: '2023-02-01'
-  link: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DchDrutUTs0K
+  link: https://openreview.net/forum?id=chDrutUTs0K
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -171,28 +176,41 @@
   file: sources.yaml
 - id: https://openreview.net/forum?id=JMrIeKjTAe
   title: Generalised f-Mean Aggregation for Graph Neural Networks
-  authors: []
+  authors:
+  - Ryan Kortvelesy
+  - Steven Morad
+  - Amanda Prorok
   publisher: Advances in Neural Information Processing Systems
   date: '2023-09-22'
-  link: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DJMrIeKjTAe
+  link: https://openreview.net/forum?id=JMrIeKjTAe
   type: paper
   plugin: sources.py
   file: sources.yaml
 - id: https://openreview.net/forum?id=KTfAtro6vP
   title: Reinforcement Learning with Fast and Forgetful Memory
-  authors: []
+  authors:
+  - Steven Morad
+  - Ryan Kortvelesy
+  - Stephan Liwicki
+  - Amanda Prorok
   publisher: Advances in Neural Information Processing Systems
   date: '2023-09-22'
-  link: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DKTfAtro6vP
+  link: https://openreview.net/forum?id=KTfAtro6vP
   type: paper
   plugin: sources.py
   file: sources.yaml
 - id: https://openreview.net/forum?id=nA4Q983a1v
   title: Recurrent Reinforcement Learning with Memoroids
-  authors: []
+  authors:
+  - Steven Morad
+  - Chris Lu
+  - Ryan Kortvelesy
+  - Stephan Liwicki
+  - Jakob Nicolaus Foerster
+  - Amanda Prorok
   publisher: Advances in Neural Information Processing Systems
   date: '2024-09-26'
-  link: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DnA4Q983a1v
+  link: https://openreview.net/forum?id=nA4Q983a1v
   type: paper
   plugin: sources.py
   file: sources.yaml

@@ -24,6 +24,13 @@
 
 - id: "https://openreview.net/forum?id=chDrutUTs0K"
   title: "POPGym: Benchmarking Partially Observable Reinforcement Learning"
+  authors:
+  - Steven Morad
+  - Ryan Kortvelesy
+  - Matteo Bettini
+  - Stephan Liwicki
+  - Amanda Prorok
+  link: https://openreview.net/forum?id=chDrutUTs0K
   publisher: The Eleventh International Conference on Learning Representations
   type: paper
   date: "2023-2-1"
@@ -36,18 +43,37 @@
 
 - id: "https://openreview.net/forum?id=JMrIeKjTAe"
   title: "Generalised f-Mean Aggregation for Graph Neural Networks"
+  authors:
+  - Ryan Kortvelesy
+  - Steven Morad
+  - Amanda Prorok
+  link: https://openreview.net/forum?id=JMrIeKjTAe
   publisher: Advances in Neural Information Processing Systems
   type: paper
   date: "2023-9-22"
 
 - id: "https://openreview.net/forum?id=KTfAtro6vP"
   title: "Reinforcement Learning with Fast and Forgetful Memory"
+  authors:
+  - Steven Morad
+  - Ryan Kortvelesy
+  - Stephan Liwicki
+  - Amanda Prorok
+  link: https://openreview.net/forum?id=KTfAtro6vP
   publisher: Advances in Neural Information Processing Systems
   type: paper
   date: "2023-9-22"
 
 - id: "https://openreview.net/forum?id=nA4Q983a1v"
   title: "Recurrent Reinforcement Learning with Memoroids"
+  authors:
+  - Steven Morad
+  - Chris Lu
+  - Ryan Kortvelesy
+  - Stephan Liwicki
+  - Jakob Nicolaus Foerster
+  - Amanda Prorok
+  link: https://openreview.net/forum?id=nA4Q983a1v
   publisher: Advances in Neural Information Processing Systems
   type: paper
   date: "2024-9-26"
