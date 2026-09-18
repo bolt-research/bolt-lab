@@ -1,7 +1,7 @@
 ---
-name: He Zhe
+name: Zhe He
 image: images/hezhe.jpg
-role: ms
+role: phd
 affiliation: University of Macau
 aliases:
   - Zhe

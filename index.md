@@ -35,7 +35,7 @@ We are currently looking to hire new PhD students. If you are interested, please
 
 {%
   include feature.html
-  image="images/research2.png"
+  image="images/research/popgym-arcade-environments.png"
   link="research"
   title="Our Research"
   text=text

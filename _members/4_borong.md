@@ -1,7 +1,7 @@
 ---
 name: Borong Zhang
 image: images/borong.jpg
-role: ms
+role: phd
 affiliation: University of Macau
 aliases:
   - Borong

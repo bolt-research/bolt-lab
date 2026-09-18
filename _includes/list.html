@@ -6,7 +6,7 @@
 %}
 
 {% assign years = data
-  | group_by_exp: "d", "d.date | date: '%Y'"
+  | group_by_exp: "d", "d.publication_year | default: d.date | slice: 0, 4"
   | sort: "name"
   | reverse
 %}
@@ -32,8 +32,10 @@
       content=d.content
       date=d.date
       description=d.description
+      equal_contributors=d.equal_contributors
       excerpt=d.excerpt
       height=d.height
+      highlight=d.highlight
       icon=d.icon
       id=d.id
       image=d.image
@@ -42,6 +44,7 @@
       lookup=d.lookup
       name=d.name
       publisher=d.publisher
+      publication_year=d.publication_year
       repo=d.repo
       role=d.role
       slug=d.slug

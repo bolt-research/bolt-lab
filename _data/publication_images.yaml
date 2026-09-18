@@ -1,0 +1,110 @@
+# Figure metadata is maintained separately from generated citations.yaml.
+# Images link to the corresponding paper through the citation component.
+
+"doi:10.1609/aaai.v40i31.39876":
+  image: images/research/explore-to-learn.png
+  source: https://ojs.aaai.org/index.php/AAAI/article/download/39876/43837
+  figure: Figure 1
+  page: 1
+  alt: "Explore to Learn: four disentangled muscle synergy patterns for an 80-dimensional musculoskeletal control task."
+
+"doi:10.1109/ICRA55743.2025.11127288":
+  image: images/research/language-conditioned-navigation.jpg
+  source: https://arxiv.org/pdf/2407.20164v1
+  figure: "Figure 1, right panel"
+  page: 2
+  alt: "Five real robots following language-conditioned navigation commands, with color-coded goals and trajectories after coordinating a three-way yield."
+
+"https://arxiv.org/abs/2603.26441":
+  image: images/research/minav-overview.png
+  source: https://arxiv.org/pdf/2603.26441v1
+  figure: Figure 1
+  page: 1
+  alt: "MINav's two-hour workflow: autonomous exploration, offline policy training on a laptop, and robot deployment."
+
+"https://proceedings.mlr.press/v270/blumenkamp25a.html":
+  image: images/research/covis-net-formation.jpg
+  source: https://arxiv.org/html/2405.01107v3/figs/hero.jpg
+  figure: Figure 1
+  page: 1
+  alt: "CoViS-Net controls three robots in formation using visual relative-pose estimates, with cyan, magenta, and yellow fields of view."
+
+"https://arxiv.org/abs/2503.01450":
+  image: images/research/popgym-arcade-overview.png
+  source: https://arxiv.org/pdf/2503.01450v8
+  figure: Figure 1
+  page: 1
+  alt: "POPGym Arcade: paired fully and partially observable game environments and the memory analysis framework."
+  homepage_image: images/research/popgym-arcade-environments.png
+  homepage_figure: "Figure 1, upper environment panel"
+
+"https://arxiv.org/abs/2602.10602":
+  image: images/research/ngem-mode-separation.png
+  source: https://arxiv.org/pdf/2602.10602v1
+  figure: Figure 2(a,b)
+  page: 3
+  alt: "Mixture density learning: NLL mode collapse compared with the separated modes learned by nGEM."
+
+"doi:10.1109/ICRA46639.2022.9811744":
+  image: images/research/gnn-framework.jpg
+  source: https://arxiv.org/pdf/2111.01777v2
+  figure: Figure 1
+  page: 1
+  alt: "Five DJI RoboMaster robots coordinating through a narrow passage using decentralized GNN policies."
+
+"doi:10.1109/LRA.2020.3048662":
+  image: images/research/navacl-real-world.png
+  source: https://arxiv.org/pdf/2009.05429v2
+  figure: Figure 7(a)
+  page: 7
+  alt: "NavACL ground robot navigating through an unfamiliar cluttered house toward a vase target."
+
+"doi:10.1109/LRA.2019.2959490":
+  image: images/research/glacial-camera-rig.jpg
+  source: https://arxiv.org/pdf/1908.10425v2
+  figure: Figure 3
+  page: 3
+  alt: "Visible-light and near-infrared camera rig beside a firn wall at Mount St. Helens."
+
+"doi:10.1109/AERO.2019.8741609":
+  image: images/research/speer-robot.png
+  source: https://arxiv.org/pdf/1903.07856v1
+  figure: Figure 2
+  page: 3
+  alt: "SPEER spherical microbot rendering with its shell, thruster, cameras, batteries, and onboard electronics labeled."
+
+"https://openreview.net/forum?id=chDrutUTs0K":
+  image: images/research/popgym-environments.png
+  source: https://arxiv.org/pdf/2303.01859
+  figure: Figure 1(c)
+  page: 2
+  alt: "POPGym: two maze navigation environments used to benchmark partially observable reinforcement learning."
+
+"https://arxiv.org/abs/2302.12826":
+  image: images/research/pisa-architecture.png
+  source: https://arxiv.org/pdf/2302.12826
+  figure: Figure 1(a-b)
+  page: 2
+  presentation: "Original encoder and decoder panels arranged vertically; panel contents, labels, arrows, and colors preserved."
+  alt: "PISA set autoencoder architecture: set encoder and set decoder from Figure 1."
+
+"https://openreview.net/forum?id=JMrIeKjTAe":
+  image: images/research/genagg-functions.png
+  source: https://proceedings.neurips.cc/paper_files/paper/2023/file/6c78ae0c1140902bf3a430b1725bcc4e-Paper-Conference.pdf
+  figure: Figure 1(a-f)
+  page: 1
+  alt: "Generalised f-Mean Aggregation: six aggregation-function surfaces from Figure 1."
+
+"https://openreview.net/forum?id=KTfAtro6vP":
+  image: images/research/ffm.png
+  source: https://papers.neurips.cc/paper_files/paper/2023/file/e3bf2f0f10774c474de22a12cb060e2c-Paper-Conference.pdf
+  figure: Figure 1
+  page: 5
+  alt: "Fast and Forgetful Memory: exponential forgetting and oscillatory temporal context, Figure 1."
+
+"https://openreview.net/forum?id=nA4Q983a1v":
+  image: images/research/memoroids.png
+  source: https://proceedings.neurips.cc/paper_files/paper/2024/file/19f7f755908372efb25826d61959cdf9-Paper-Conference.pdf
+  figure: Figure 2
+  page: 6
+  alt: "Memoroids: trajectory-based batching and episode indices, Figure 2."

@@ -10,7 +10,7 @@
   | where_exp: "file", "file.url contains '/_styles'"
 %}
 {% for style in styles %}
-  {% unless style.url contains ".map" %}
+  {% unless style.url contains ".map" or style.path == "_styles/refinement.scss" %}
     <link
       href="{{ style.path | replace: ".scss", ".css" | relative_url }}"
       rel="stylesheet"
@@ -26,3 +26,6 @@
 {% for style in styles %}
   <link href="{{ style.path | relative_url }}" rel="stylesheet" />
 {% endfor %}
+
+<!-- Site-wide presentation layer, after the template components. -->
+<link href="{{ '/_styles/refinement.css' | relative_url }}" rel="stylesheet" />

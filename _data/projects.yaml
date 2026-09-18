@@ -1,12 +1,15 @@
 
 - title: Reinforcement Learning
   subtitle: Solving higher-level tasks
+  image: images/projects/reinforcement-learning.jpg
   
 - title: Memory and Sequence Modeling
   subtitle: Making the intractable, tractable
+  image: images/projects/memory-sequence-modeling.jpg
 
 - title: Robotics
   subtitle: Intelligent autonomy
+  image: images/projects/robotics.jpg
 # - title: Cool Package
 #   subtitle: a subtitle
 #   group: featured

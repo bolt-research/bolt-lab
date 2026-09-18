@@ -1,7 +1,7 @@
 ---
-name: Wang Zekang 
+name: Zekang Wang
 image: images/zekang.jpg
-role: ms
+role: phd
 affiliation: University of Macau
 aliases:
   - Zekang
