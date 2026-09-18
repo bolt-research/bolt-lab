@@ -57,17 +57,102 @@
   orcid: 0000-0002-8413-2953
   plugin: orcid.py
   file: orcid.yaml
-- id: https://openreview.net/forum?id=chDrutUTs0K
-  title: 'POPGym: Benchmarking Partially Observable Reinforcement Learning'
+- id: https://arxiv.org/abs/2503.01450
+  title: Investigating Memory in Model-Free RL with POPGym Arcade
+  authors:
+  - Zekang Wang
+  - Zhe He
+  - Borong Zhang
+  - Edan Toledo
+  - Steven Morad
+  publisher: International Conference on Machine Learning (ICML 2026)
+  date: '2025-03-03'
+  link: https://arxiv.org/abs/2503.01450
+  equal_contributors:
+  - Zekang Wang
+  - Zhe He
+  type: paper
+  publication_year: '2026'
+  highlight: "ICML 2026 \xB7 Spotlight \xB7 Top 2.2%"
+  plugin: sources.py
+  file: sources-2025-2026.yaml
+- id: doi:10.1609/aaai.v40i31.39876
+  title: 'Explore to Learn: Latent Exploration Through Disentangled Synergy Patterns
+    for Reinforcement Learning in Overactuated Control'
+  authors:
+  - Yiming Wang
+  - Kaiyan Zhao
+  - Xu Li
+  - Yan Li
+  - Jiayu Chen
+  - Steven Morad
+  - Leong Hou U
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2026-03-14'
+  link: https://ojs.aaai.org/index.php/AAAI/article/view/39876
+  type: paper
+  highlight: "AAAI 2026 \xB7 Oral \xB7 Top 5%"
+  plugin: sources.py
+  file: sources-2025-2026.yaml
+- id: https://arxiv.org/abs/2603.26441
+  title: '120 Minutes and a Laptop: Minimalist Image-goal Navigation via Unsupervised
+    Exploration and Offline RL'
+  authors:
+  - Xiaoming Liu
+  - Borong Zhang
+  - Qingbiao Li
+  - Steven Morad
+  publisher: arXiv preprint
+  date: '2026-03-27'
+  link: https://arxiv.org/abs/2603.26441
+  type: paper
+  plugin: sources.py
+  file: sources-2025-2026.yaml
+- id: https://arxiv.org/abs/2602.10602
+  title: Learning Mixture Density via Natural Gradient Expectation Maximization
+  authors:
+  - Yutao Chen
+  - Jasmine Bayrooti
+  - Steven Morad
+  publisher: arXiv preprint
+  date: '2026-02-11'
+  link: https://arxiv.org/abs/2602.10602
+  type: paper
+  plugin: sources.py
+  file: sources-2025-2026.yaml
+- id: doi:10.1109/ICRA55743.2025.11127288
+  title: Language-Conditioned Offline RL for Multi-Robot Navigation
   authors:
   - Steven Morad
-  - Ryan Kortvelesy
-  - Matteo Bettini
-  - Stephan Liwicki
+  - Ajay Shankar
+  - Jan Blumenkamp
   - Amanda Prorok
+  publisher: 2025 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2025-05-19'
+  link: https://doi.org/10.1109/ICRA55743.2025.11127288
+  type: paper
+  plugin: sources.py
+  file: sources-2025-2026.yaml
+- id: https://proceedings.mlr.press/v270/blumenkamp25a.html
+  title: 'CoViS-Net: A Cooperative Visual Spatial Foundation Model for Multi-Robot
+    Applications'
+  authors:
+  - Jan Blumenkamp
+  - Steven Morad
+  - Jennifer Gielis
+  - Amanda Prorok
+  publisher: Conference on Robot Learning (CoRL 2024), PMLR 270
+  date: '2025-01-12'
+  link: https://proceedings.mlr.press/v270/blumenkamp25a.html
+  type: paper
+  plugin: sources.py
+  file: sources-2025-2026.yaml
+- id: https://openreview.net/forum?id=chDrutUTs0K
+  title: 'POPGym: Benchmarking Partially Observable Reinforcement Learning'
+  authors: []
   publisher: The Eleventh International Conference on Learning Representations
   date: '2023-02-01'
-  link: https://openreview.net/forum?id=chDrutUTs0K
+  link: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DchDrutUTs0K
   type: paper
   plugin: sources.py
   file: sources.yaml
@@ -86,131 +171,28 @@
   file: sources.yaml
 - id: https://openreview.net/forum?id=JMrIeKjTAe
   title: Generalised f-Mean Aggregation for Graph Neural Networks
-  authors:
-  - Ryan Kortvelesy
-  - Steven Morad
-  - Amanda Prorok
+  authors: []
   publisher: Advances in Neural Information Processing Systems
   date: '2023-09-22'
-  link: https://openreview.net/forum?id=JMrIeKjTAe
+  link: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DJMrIeKjTAe
   type: paper
   plugin: sources.py
   file: sources.yaml
 - id: https://openreview.net/forum?id=KTfAtro6vP
   title: Reinforcement Learning with Fast and Forgetful Memory
-  authors:
-  - Steven Morad
-  - Ryan Kortvelesy
-  - Stephan Liwicki
-  - Amanda Prorok
+  authors: []
   publisher: Advances in Neural Information Processing Systems
   date: '2023-09-22'
-  link: https://openreview.net/forum?id=KTfAtro6vP
+  link: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DKTfAtro6vP
   type: paper
   plugin: sources.py
   file: sources.yaml
 - id: https://openreview.net/forum?id=nA4Q983a1v
   title: Recurrent Reinforcement Learning with Memoroids
-  authors:
-  - Steven Morad
-  - Chris Lu
-  - Ryan Kortvelesy
-  - Stephan Liwicki
-  - Jakob Nicolaus Foerster
-  - Amanda Prorok
+  authors: []
   publisher: Advances in Neural Information Processing Systems
   date: '2024-09-26'
-  link: https://openreview.net/forum?id=nA4Q983a1v
+  link: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DnA4Q983a1v
   type: paper
   plugin: sources.py
   file: sources.yaml
-- id: https://arxiv.org/abs/2503.01450
-  title: Investigating Memory in Model-Free RL with POPGym Arcade
-  authors:
-  - Zekang Wang
-  - Zhe He
-  - Borong Zhang
-  - Edan Toledo
-  - Steven Morad
-  equal_contributors:
-  - Zekang Wang
-  - Zhe He
-  publisher: International Conference on Machine Learning (ICML 2026)
-  type: paper
-  date: '2025-03-03'
-  publication_year: '2026'
-  highlight: ICML 2026 · Spotlight · Top 2.2%
-  link: https://arxiv.org/abs/2503.01450
-  plugin: sources.py
-  file: sources-2025-2026.yaml
-- id: doi:10.1609/aaai.v40i31.39876
-  title: 'Explore to Learn: Latent Exploration Through Disentangled Synergy Patterns
-    for Reinforcement Learning in Overactuated Control'
-  authors:
-  - Yiming Wang
-  - Kaiyan Zhao
-  - Xu Li
-  - Yan Li
-  - Jiayu Chen
-  - Steven Morad
-  - Leong Hou U
-  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
-  type: paper
-  date: '2026-03-14'
-  highlight: AAAI 2026 · Oral · Top 5%
-  link: https://ojs.aaai.org/index.php/AAAI/article/view/39876
-  plugin: sources.py
-  file: sources-2025-2026.yaml
-- id: https://arxiv.org/abs/2603.26441
-  title: '120 Minutes and a Laptop: Minimalist Image-goal Navigation via Unsupervised
-    Exploration and Offline RL'
-  authors:
-  - Xiaoming Liu
-  - Borong Zhang
-  - Qingbiao Li
-  - Steven Morad
-  publisher: arXiv preprint
-  type: paper
-  date: '2026-03-27'
-  link: https://arxiv.org/abs/2603.26441
-  plugin: sources.py
-  file: sources-2025-2026.yaml
-- id: https://arxiv.org/abs/2602.10602
-  title: Learning Mixture Density via Natural Gradient Expectation Maximization
-  authors:
-  - Yutao Chen
-  - Jasmine Bayrooti
-  - Steven Morad
-  publisher: arXiv preprint
-  type: paper
-  date: '2026-02-11'
-  link: https://arxiv.org/abs/2602.10602
-  plugin: sources.py
-  file: sources-2025-2026.yaml
-- id: doi:10.1109/ICRA55743.2025.11127288
-  title: Language-Conditioned Offline RL for Multi-Robot Navigation
-  authors:
-  - Steven Morad
-  - Ajay Shankar
-  - Jan Blumenkamp
-  - Amanda Prorok
-  publisher: 2025 IEEE International Conference on Robotics and Automation (ICRA)
-  type: paper
-  date: '2025-05-19'
-  link: https://doi.org/10.1109/ICRA55743.2025.11127288
-  plugin: sources.py
-  file: sources-2025-2026.yaml
-- id: https://proceedings.mlr.press/v270/blumenkamp25a.html
-  title: 'CoViS-Net: A Cooperative Visual Spatial Foundation Model for Multi-Robot
-    Applications'
-  authors:
-  - Jan Blumenkamp
-  - Steven Morad
-  - Jennifer Gielis
-  - Amanda Prorok
-  publisher: Conference on Robot Learning (CoRL 2024), PMLR 270
-  type: paper
-  date: '2025-01-12'
-  link: https://proceedings.mlr.press/v270/blumenkamp25a.html
-  plugin: sources.py
-  file: sources-2025-2026.yaml
